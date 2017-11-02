@@ -4485,3 +4485,130 @@ h2.features__title {
         display: none;
     }
 }
+
+@media (min-width: 1421px) {
+  .theme__button {
+    margin-left: 113px;
+  }
+}
+  @media (min-width: 1024px) {
+    .theme__button {
+      margin-left: 84px;
+      margin-top: 20px;
+    }
+  }
+
+@media (max-width: 1023px) {
+  .theme__button {
+    margin-left: 47px;
+    margin-top: 20px;
+  }
+}
+
+.hero h1 {
+  color: rgb(255, 255, 255);
+  font-family: gothamblack, "Arial Black", Arial, Helvetica, sans-serif;
+  line-height: 1.05em;
+  font-size: 3.5em;
+  font-weight: normal;
+}
+
+* {
+  box-sizing: border-box;
+  font-weight: 400;
+  margin: 0px;
+  padding: 0px;
+}
+
+.hero-bg {
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: -1;
+  height: 102vh;
+  background-repeat: no-repeat;
+  background-position: center center;
+  overflow: hidden;
+}
+.hero {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 92vh;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: right;
+}
+
+.partners-icon-box img {
+  max-width: 220px;
+  filter: grayscale(1);
+}
+
+@media (min-width: 525px) {
+  .hero {
+    width: 90%;
+  }
+}
+
+.hero-bg img {
+  object-fit: cover;
+  width: 100vw;
+  height: 150vh;
+}
+
+.hero-header.header-type-1 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  -webkit-box-flex: 0;
+  text-align: right;
+  flex: 0 0 100%;
+}
+          .hero-header {
+            margin-top: -10em;
+            text-align: center;
+            letter-spacing: -1.68px;
+          }
+.how-it-works__header {
+  text-align: center;
+}
+
+.how-it-works {
+  margin-bottom: 10em;
+}
+
+.partners__item {
+  position: relative;
+  float: left;
+  width: 33.2%;
+  height: 22.0625em;
+  transition: transform 0.5s ease-out, opacity 0.3s ease;
+}
+
+.partners__items_box {
+  position: relative;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.partners {
+  padding-top: 7em;
+}
+
+.cta {
+  color: rgb(131, 75, 197);
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  border-radius: 4em;
+  padding: 1.2em 3.45em;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  background: rgb(255, 255, 255) !important;
+}
