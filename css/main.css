@@ -4561,7 +4561,7 @@ h2.features__title {
   position: relative;
   float: left;
   width: 33.2%;
-  height: 22.0625em;
+  height: 16.0625em;
   transition: transform 0.5s ease-out, opacity 0.3s ease;
 }
 
@@ -4572,7 +4572,7 @@ h2.features__title {
 }
 
 .partners {
-  padding-top: 7em;
+  padding-top: 2em;
 }
 
 .cta {
