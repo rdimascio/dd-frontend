@@ -4544,11 +4544,13 @@ h2.features__title {
   text-align: right;
   flex: 0 0 100%;
 }
-          .hero-header {
-            margin-top: -10em;
-            text-align: center;
-            letter-spacing: -1.68px;
-          }
+
+.hero-header {
+  margin-top: -16em;
+  text-align: center;
+  letter-spacing: -1.68px;
+}
+
 .how-it-works__title,
 .how-it-works__subtitle {
   text-align: center;
