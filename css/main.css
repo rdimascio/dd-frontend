@@ -4520,7 +4520,7 @@ h2.features__title {
 
 .partners-icon-box img {
   max-width: 220px;
-  filter: grayscale(1);
+  /*filter: grayscale(1);*/
 }
 
 @media (min-width: 525px) {
