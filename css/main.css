@@ -4559,7 +4559,10 @@ h2.features__title {
   padding-top: 2em;
   text-align: center;
   color: #1a1a1e;
-}
+  font-size: 1em; }
+  @media screen (min-width: 1023px) {
+    .how-it-works__subtitle {
+      font-size: 14px; } }
 
 .how-it-works {
   margin-bottom: 10em;
