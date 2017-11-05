@@ -2968,7 +2968,7 @@ a.followers__item {
   @media (max-width: 1023px) {
     .paragraphs__item .paragraphs__item__text {
       max-width: 270px;
-      font-size: 12px; } }
+      font-size: 14px; } }
   @media (max-width: 767px) {
     .paragraphs__item .paragraphs__item__text {
       max-width: 25em;
