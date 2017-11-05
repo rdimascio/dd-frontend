@@ -2967,6 +2967,9 @@ a.followers__item {
       margin-left: 2.8em; } }
   @media (max-width: 1023px) {
     .paragraphs__item .paragraphs__item__text {
+      font-size: 16px; } }
+  @media (max-width: 1023px) {
+    .paragraphs__item .paragraphs__item__text {
       max-width: 270px;
       font-size: 14px; } }
   @media (max-width: 767px) {
@@ -4562,7 +4565,7 @@ h2.features__title {
   font-size: 1em; }
   @media (min-width: 1023px) {
     .how-it-works__subtitle {
-      font-size: 14px; } }
+      font-size: 16px; } }
 
 .how-it-works {
   margin-bottom: 10em;
