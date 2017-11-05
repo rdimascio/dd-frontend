@@ -4598,3 +4598,12 @@ h2.features__title {
   text-decoration: none;
   background: rgb(255, 255, 255) !important;
 }
+
+.overlay-mockup img {
+  max-width: 600px;  
+}
+
+.hero-overlay-mockup {
+  margin-top: -28em;
+  margin-left: 4em;
+}
