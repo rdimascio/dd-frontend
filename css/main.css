@@ -2923,7 +2923,7 @@ a.followers__item {
   letter-spacing: 0.03em;
   font-family: Playfair Display, Helvetica, Arial, sans-serif;
   font-size: 3.75em;
-  font-weight: 700; }
+  font-weight: 400; }
   .paragraphs__item__title--cream {
     color: #f9e1d5; }
   @media (max-width: 1023px) {
@@ -4552,6 +4552,7 @@ h2.features__title {
 .how-it-works__title,
 .how-it-works__subtitle {
   text-align: center;
+  color: #1a1a1e;
 }
 
 .how-it-works__subtitle {
