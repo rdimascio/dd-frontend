@@ -2923,7 +2923,7 @@ a.followers__item {
   letter-spacing: 0.03em;
   font-family: Playfair Display, Helvetica, Arial, sans-serif;
   font-size: 3.75em;
-  font-weight: 400; }
+  font-weight: 700; }
   .paragraphs__item__title--cream {
     color: #f9e1d5; }
   @media (max-width: 1023px) {
@@ -2967,11 +2967,8 @@ a.followers__item {
       margin-left: 2.8em; } }
   @media (max-width: 1023px) {
     .paragraphs__item .paragraphs__item__text {
-      font-size: 16px; } }
-  @media (max-width: 1023px) {
-    .paragraphs__item .paragraphs__item__text {
       max-width: 270px;
-      font-size: 14px; } }
+      font-size: 12px; } }
   @media (max-width: 767px) {
     .paragraphs__item .paragraphs__item__text {
       max-width: 25em;
@@ -4552,20 +4549,9 @@ h2.features__title {
             text-align: center;
             letter-spacing: -1.68px;
           }
-.how-it-works__title {
+.how-it-works__header {
   text-align: center;
-  color: #1a1a1e;
-  font-weight: 700;
 }
-
-.how-it-works__subtitle {
-  padding-top: 2em;
-  text-align: center;
-  color: #1a1a1e;
-  font-size: 1em; }
-  @media (min-width: 1023px) {
-    .how-it-works__subtitle {
-      font-size: 16px; } }
 
 .how-it-works {
   margin-bottom: 10em;
@@ -4590,7 +4576,7 @@ h2.features__title {
 }
 
 .cta {
-  color: rgb(131, 75, 197);
+  color: #31BA6E;
   font-weight: normal;
   letter-spacing: 1px;
   margin-top: 20px;
