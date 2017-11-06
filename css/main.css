@@ -4609,3 +4609,8 @@ h2.features__title {
   margin-top: -28em;
   margin-left: 4em;
 }
+
+.logo {
+  max-width: 220px;
+  margin-left: 10px;
+}
