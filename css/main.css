@@ -4618,9 +4618,14 @@ h2.features__title {
 
 .navigation {
   float: right;
+  color: #fff;
 }
 
 .navigation li {
+  display: inline-block;
+}
+
+.hero-nav .row {
   display: inline-block;
 }
 
