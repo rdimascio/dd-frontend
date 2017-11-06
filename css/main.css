@@ -4619,11 +4619,11 @@ h2.features__title {
 .navigation {
   float: right;
   color: #fff;
-  margin: 20px;
 }
 
 .navigation li {
   display: inline-block;
+  margin: 20px;
 }
 
 .hero-nav .row {
