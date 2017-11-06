@@ -4612,13 +4612,14 @@ h2.features__title {
 
 .logo {
   max-width: 220px;
-  left: 40px;
-  top: 20px;
+  margin-left: 40px;
+  margin-top: 25px;
 }
 
 .navigation {
   float: right;
   color: #fff;
+  margin: 20px;
 }
 
 .navigation li {
@@ -4628,4 +4629,3 @@ h2.features__title {
 .hero-nav .row {
   display: inline-block;
 }
-
