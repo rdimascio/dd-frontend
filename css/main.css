@@ -4612,5 +4612,11 @@ h2.features__title {
 
 .logo {
   max-width: 220px;
-  margin-left: 10px;
+  left: 40px;
+  top: 20px;
+}
+
+.navigation {
+  float: right
+  display: inline-block;
 }
