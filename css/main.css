@@ -4617,6 +4617,10 @@ h2.features__title {
 }
 
 .navigation {
-  float: right
+  float: right;
+}
+
+.navigation li {
   display: inline-block;
 }
+
