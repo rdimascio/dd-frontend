@@ -4553,7 +4553,7 @@ h2.features__title {
 
 .how-it-works__title,
 .how-it-works__subtitle {
-  text-align: center;
+  text-align: left;
   color: #252537; }
   @media (min-width: 1024px) {
     .how-it-works__subtitle {
@@ -4570,7 +4570,6 @@ h2.features__title {
 
 .how-it-works {
   margin-bottom: 14em; 
-  position: relative;
   margin-left: 65em;
 }
 
@@ -4643,5 +4642,18 @@ h2 .how-it-works, p .how-it-works {
 
 .testimonial-image {
   max-height: 275px;
-  margin-left: 26em;
+  position: relative;
+  left: 20%;
+}
+
+.testimonial__image__wrapper {
+  width: 33%;
+  float: left;
+  margin-left: 10em;
+}
+
+.testimonial-header {
+  width: 50%;
+  float: right;
+  margin-right: 6.9em;
 }
