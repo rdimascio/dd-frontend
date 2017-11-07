@@ -4570,7 +4570,8 @@ h2.features__title {
 
 .how-it-works {
   margin-bottom: 14em; 
-  display: inline-block;
+  position: relative;
+  margin-left: 65em;
 }
 
 h2 .how-it-works, p .how-it-works {
@@ -4641,5 +4642,6 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .testimonial-image {
-  max-height: 500px;
+  max-height: 275px;
+  margin-left: 26em;
 }
