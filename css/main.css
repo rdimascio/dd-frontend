@@ -4615,7 +4615,17 @@ h2.features__title {
   margin-left: 10px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: gothamblack, "Arial Black", Arial, Helvetica, sans-serif;
-  font-weight: normal;
+.navigation li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.navigation {
+  float: right;
+  color: #fff;
+  margin-top: 15px;
+  margin-right: 25px;
+  font-family: montserrat, Helvetica, Arial, serif;
+  font-size: 13px;
+  letter-spacing: 0.65em;
 }
