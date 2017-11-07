@@ -4568,10 +4568,6 @@ h2.features__title {
   font-size: 16px;
 }
 
-.how-it-works {
-  margin-bottom: 14em;
-}
-
 h2 .how-it-works, p .how-it-works {
   width: 50%;
 }
@@ -4659,4 +4655,8 @@ h2 .how-it-works, p .how-it-works {
 
 .highlighted {
   background-image: linear-gradient(180deg, transparent 55%, #47ff87 0);
+}
+
+.testimonial {
+  margin-bottom: 14em;
 }
