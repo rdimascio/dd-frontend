@@ -4646,9 +4646,9 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .testimonial__image__wrapper {
-  width: 33%;
+  width: 27%;
   float: left;
-  margin-left: 10em;
+  margin-left: 5em;
 }
 
 .testimonial-header {
