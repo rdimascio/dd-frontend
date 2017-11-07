@@ -4546,7 +4546,7 @@ h2.features__title {
 }
 
 .hero-header {
-  margin-top: -24em;
+  margin-top: -16em;
   text-align: center;
   letter-spacing: -1.68px;
 }
@@ -4601,40 +4601,21 @@ h2.features__title {
   background: rgb(255, 255, 255) !important;
 }
 
-.cta a:hov {
-  color: #31BA6E;
-}
-
 .overlay-mockup {
   max-width: 600px;  
 }
 
 .hero-overlay-mockup {
-  margin-top: -34em;
+  margin-top: -28em;
   margin-left: 4em;
 }
 
 .logo {
   max-width: 220px;
-  margin-left: 40px;
-  margin-top: 25px;
+  margin-left: 10px;
 }
 
-.navigation {
-  float: right;
-  color: #fff;
-  margin-top: 15px;
-  margin-right: 25px;
-  font-family: montserrat, Helvetica, Arial, serif;
-  font-size: 13px;
-  letter-spacing: 0.065em;
-}
-
-.navigation li {
-  display: inline-block;
-  margin: 20px;
-}
-
-.hero-nav .row {
-  display: inline-block;
+h1, h2, h3, h4, h5, h6 {
+  font-family: gothamblack, "Arial Black", Arial, Helvetica, sans-serif;
+  font-weight: normal;
 }
