@@ -4635,6 +4635,10 @@ h2 .how-it-works, p .how-it-works {
   max-width: 50px;
 }
 
+.header__emoji {
+  max-width: 100px;
+}
+
 .testimonial-image {
   max-height: 275px;
   position: relative;
