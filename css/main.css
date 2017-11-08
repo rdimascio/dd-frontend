@@ -4670,15 +4670,6 @@ h2 .how-it-works, p .how-it-works {
   padding-bottom: 8.0625em;
 }
 
-#rocket__emoji {
-		-webkit-animation: rotation 2s infinite linear;
-}
-
-@-webkit-keyframes rotation {
-		from {
-				-webkit-transform: rotate(0deg);
-		}
-		to {
-				-webkit-transform: rotate(9deg);
-		}
+#rocket__emoji:hover {
+  transform: rotate(9deg);
 }
