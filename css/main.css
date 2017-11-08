@@ -4657,10 +4657,6 @@ h2 .how-it-works, p .how-it-works {
   background-image: linear-gradient(180deg, transparent 55%, #47ff87 0);
 }
 
-.testimonial {
-  margin-bottom: 14em;
-}
-
 .testimonial__image__caption {
   font-size: 10px;
   padding: 10px;
