@@ -4642,13 +4642,14 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .testimonial-image {
-  max-height: 300px;
+  max-height: 360px;
   position: relative;
   left: 20%;
+  margin-top: -110px;
 }
 
 .testimonial__image__wrapper {
-  width: 233%;
+  width: 33%;
   float: left;
 }
 
@@ -4665,6 +4666,7 @@ h2 .how-it-works, p .how-it-works {
 .testimonial__image__caption {
   font-size: 10px;
   padding: 10px;
+  margin-left: 40px;
 }
 
 .testimonial {
