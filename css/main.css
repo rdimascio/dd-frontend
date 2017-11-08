@@ -4677,13 +4677,13 @@ h2 .how-it-works, p .how-it-works {
 }
 
 @-webkit-keyframes rotation {
-		from {
+		0% {
 				-webkit-transform: rotate(0deg);
 		}
-		to {
-				-webkit-transform: rotate(2deg);
+		50% {
+				-webkit-transform: rotate(6deg);
 		}
-		to {
+		100% {
 		  	-webkit-transform: rotate(0deg);
 		}
 }
