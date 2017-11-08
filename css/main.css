@@ -4637,6 +4637,8 @@ h2 .how-it-works, p .how-it-works {
 
 .header__emoji {
   max-width: 100px;
+  margin-bottom: -20px;
+  margin-right: -20px;
 }
 
 .testimonial-image {
@@ -4671,5 +4673,14 @@ h2 .how-it-works, p .how-it-works {
 }
 
 #rocket__emoji:hover {
-  transform: rotate(9deg);
+  		-webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(9deg);
+		}
 }
