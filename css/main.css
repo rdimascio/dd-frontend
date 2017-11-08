@@ -4683,4 +4683,7 @@ h2 .how-it-works, p .how-it-works {
 		to {
 				-webkit-transform: rotate(2deg);
 		}
+		to {
+		  	-webkit-transform: rotate(0deg);
+		}
 }
