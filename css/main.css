@@ -4679,7 +4679,6 @@ h2 .how-it-works, p .how-it-works {
 				-webkit-transform: rotate(0deg);
 		}
 		to {
-				-webkit-transform: rotate(45deg);
+				-webkit-transform: rotate(9deg);
 		}
-}
 }
