@@ -4661,3 +4661,7 @@ h2 .how-it-works, p .how-it-works {
   font-size: 10px;
   padding: 10px;
 }
+
+.testimonial {
+  padding-bottom: 4.0625em;
+}
