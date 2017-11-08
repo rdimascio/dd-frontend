@@ -4673,7 +4673,7 @@ h2 .how-it-works, p .how-it-works {
 }
 
 #rocket__emoji {
-  		-webkit-animation: rotation 1s infinite linear;
+  		-webkit-animation: rotation 2s infinite linear;
 }
 
 @-webkit-keyframes rotation {
