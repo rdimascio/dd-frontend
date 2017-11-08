@@ -4642,15 +4642,14 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .testimonial-image {
-  max-height: 275px;
+  max-height: 300px;
   position: relative;
   left: 20%;
 }
 
 .testimonial__image__wrapper {
-  width: 27%;
+  width: 233%;
   float: left;
-  margin-left: 5em;
 }
 
 .testimonial-header {
