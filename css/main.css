@@ -4660,3 +4660,8 @@ h2 .how-it-works, p .how-it-works {
 .testimonial {
   margin-bottom: 14em;
 }
+
+.testimonial__image__caption {
+  font-size: 12px;
+  padding: 10px;
+}
