@@ -4688,3 +4688,7 @@ h2 .how-it-works, p .how-it-works {
 		  	-webkit-transform: rotate(0deg);
 		}
 }
+
+#smiley__emoji {
+  max-height: 50px;
+}
