@@ -4693,3 +4693,8 @@ h2 .how-it-works, p .how-it-works {
 #smiley__emoji {
   max-height: 20px;
 }
+
+.hero-nav {
+  padding-right: 100px;
+  padding-left: 85px;
+}
