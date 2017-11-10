@@ -4330,7 +4330,7 @@ h2.features__title {
     .header__link {
       height: 32px;
       line-height: 32px;
-      min-width: 80px; } }
+      min-width: 65px; } }
   @media (max-width: 767px) {
     .header__link {
       min-width: 60px;
