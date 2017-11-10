@@ -4603,7 +4603,9 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .overlay-mockup {
-  max-width: 600px;  
+  max-width: 700px;
+  margin-left: -10%;
+  margin-top: 8%;
 }
 
 .hero-overlay-mockup {
@@ -4697,4 +4699,12 @@ h2 .how-it-works, p .how-it-works {
 .hero-nav {
   padding-right: 100px;
   padding-left: 85px;
+}
+
+.header_logo {
+  
+}
+
+.header_logo_img {
+  
 }
