@@ -4325,12 +4325,12 @@ h2.features__title {
   vertical-align: middle;
   height: 42px;
   line-height: 41px;
-  min-width: 160px; }
+  min-width: 60px; }
   @media (max-width: 1366px) {
     .header__link {
       height: 32px;
       line-height: 32px;
-      min-width: 65px; } }
+      min-width: 60px; } }
   @media (max-width: 767px) {
     .header__link {
       min-width: 60px;
