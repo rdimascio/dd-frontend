@@ -4701,10 +4701,6 @@ h2 .how-it-works, p .how-it-works {
   padding-left: 85px;
 }
 
-.header_logo {
-  
-}
-
 .header_logo_img {
-  
+  max-width: 180px;
 }
