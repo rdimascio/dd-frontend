@@ -4523,12 +4523,6 @@ h2.features__title {
   filter: grayscale(1);
 }
 
-@media (min-width: 525px) {
-  .hero {
-    width: 90%;
-  }
-}
-
 .hero-bg img {
   object-fit: cover;
   width: 100vw;
@@ -4541,7 +4535,6 @@ h2.features__title {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   -webkit-box-flex: 0;
-  text-align: right;
   flex: 0 0 100%;
 }
 
