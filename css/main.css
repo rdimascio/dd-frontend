@@ -4485,13 +4485,7 @@ h2.features__title {
   line-height: 1.05em;
   font-size: 3.5em;
   font-weight: normal;
-}
-
-* {
-  box-sizing: border-box;
-  font-weight: 400;
-  margin: 0px;
-  padding: 0px;
+  padding: 1px;
 }
 
 .hero-bg {
@@ -4515,7 +4509,6 @@ h2.features__title {
   -webkit-box-align: center;
   align-items: center;
   -webkit-box-pack: center;
-  justify-content: right;
 }
 
 .partners-icon-box img {
@@ -4524,7 +4517,6 @@ h2.features__title {
 }
 
 .hero-bg img {
-  object-fit: cover;
   width: 100vw;
   height: 150vh;
 }
@@ -4540,9 +4532,11 @@ h2.features__title {
 
 .hero-header {
   margin-top: -16em;
-  text-align: center;
-  letter-spacing: -1.68px;
-}
+  text-align: left;
+  letter-spacing: -1.68px; }
+  @media (max-width: 434px) {
+    .hero-header {
+      text-align: center; } }
 
 .how-it-works__title,
 .how-it-works__subtitle {
@@ -4553,7 +4547,7 @@ h2.features__title {
       font-size: 18px; } }
 
 .how-it-works__title {
-  font-weight: 600px !important;
+  font-weight: 600 !important;
 }
 
 .how-it-works__subtitle {
@@ -4698,7 +4692,6 @@ h2 .how-it-works, p .how-it-works {
 
 .hero-nav {
   padding-right: 100px;
-  padding-left: 85px;
 }
 
 .header_logo_img {
