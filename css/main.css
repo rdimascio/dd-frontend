@@ -4532,11 +4532,11 @@ h2.features__title {
 
 .hero-header {
   margin-top: -16em;
-  text-align: left;
+  text-align: center;
   letter-spacing: -1.68px; }
-  @media (max-width: 434px) {
+  @media (max-width: 433px) {
     .hero-header {
-      text-align: center; } }
+      text-align: left; } }
 
 .how-it-works__title,
 .how-it-works__subtitle {
