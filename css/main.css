@@ -4691,7 +4691,8 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .hero-nav {
-  padding-right: 100px;
+  padding-right: 45px;
+  padding-left: 45px;
 }
 
 .header_logo_img {
