@@ -4506,10 +4506,6 @@ h2.features__title {
   color: rgb(255, 255, 255);
   width: 100%;
   height: 92vh;
-  display: flex;
-  -webkit-box-align: center;
-  align-items: center;
-  -webkit-box-pack: center;
 }
 
 .partners-icon-box img {
@@ -4522,19 +4518,9 @@ h2.features__title {
   height: 150vh;
 }
 
-.hero-header.header-type-1 {
-  position: relative;
-  min-height: 1px;
-  padding-left: 0.9375rem;
-  padding-right: 0.9375rem;
-  -webkit-box-flex: 0;
-  flex: 0 0 100%;
-}
-
 .hero-header {
-  margin-top: -16em;
-  text-align: center;
-  letter-spacing: -1.68px; }
+  margin-top: 6em;
+  text-align: center; }
   @media (max-width: 433px) {
     .hero-header {
       text-align: left; } }
@@ -4697,5 +4683,5 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .header_logo_img {
-  max-width: 180px;
+  max-width: 300px;
 }
