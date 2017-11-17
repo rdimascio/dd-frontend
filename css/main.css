@@ -4549,6 +4549,7 @@ h2.features__title {
 .hero-bg img {
   width: 100vw;
   height: 150vh;
+  object-fit: cover;
 }
 
 .hero-header {
