@@ -4520,7 +4520,8 @@ h2.features__title {
 
 .hero-header {
   margin-top: 6em;
-  text-align: center; }
+  text-align: center;
+  line-height: 1.4; }
   @media (max-width: 433px) {
     .hero-header {
       text-align: left; } }
@@ -4568,6 +4569,7 @@ h2 .how-it-works, p .how-it-works {
   color: #31BA6E;
   font-weight: normal;
   letter-spacing: 1px;
+  line-height: 8;
   margin-top: 20px;
   border-radius: 4em;
   padding: 1.2em 3.45em;
