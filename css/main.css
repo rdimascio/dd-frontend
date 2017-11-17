@@ -4555,7 +4555,13 @@ h2.features__title {
 .hero-header {
   margin-top: 1em;
   text-align: center;
-  line-height: 1.4; }
+  line-height: 1.4;
+  position: relative;
+  min-height: 1px;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  -webkit-box-flex: 0;
+  flex: 0 0 100%; }
   @media (max-width: 433px) {
     .hero-header {
       text-align: left; } }
