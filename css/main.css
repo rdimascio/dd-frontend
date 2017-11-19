@@ -2832,6 +2832,9 @@ a.followers__item {
     margin-top: 100px;
     margin-left: 20.5%;
     margin-bottom: 227px; }
+    @media (max-width: 767px) {
+      .paragraphs__item--04 {
+        margin-bottom: 15em; } }
     @media (max-width: 1680px) {
       .paragraphs__item--04 {
         margin-left: 14.5%; } }
@@ -2847,12 +2850,9 @@ a.followers__item {
     @media (min-width: 1441px) and (max-width: 1594px) {
       .paragraphs__item--04 {
         margin-top: 8em; } }
-    @media (min-width: 1681px) and (max-width: 1906px) {
+    @media (min-width: 1595px) and (max-width: 1680px) {
       .paragraphs__item--04 {
-	margin-top: 100px; } }
-    @media (max-width: 767px) {
-      .paragraphs__item--04 {
-        margin-bottom: 15em; } }
+        margin-top: 34em; } }
     .paragraphs__item--04 .paragraphs__item__title {
       margin-left: 70px; }
     .paragraphs__item--04 .paragraphs__item__number {
