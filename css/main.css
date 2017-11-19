@@ -2844,6 +2844,9 @@ a.followers__item {
     @media (min-width: 1024px) and (max-width: 1268px) {
       .paragraphs__item--04 {
 	margin-top: 100px; } }
+    @media (min-width: 1681px) and (max-width: 1906px) {
+      .paragraphs__item--04 {
+	margin-top: 100px; } }
     @media (max-width: 767px) {
       .paragraphs__item--04 {
         margin-bottom: 15em; } }
