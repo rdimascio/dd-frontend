@@ -2838,16 +2838,12 @@ a.followers__item {
     @media (min-width: 1441px) {
       .paragraphs__item--04 {
         margin-top: 8em; } }
-    @media (max-width: 1440px) {
+    @media (min-width: 886px) {
       .paragraphs__item--04 {
-        margin-top: 34em;
-        margin-bottom: 117px; } }
+        margin-top: 34em; } }
     @media (min-width: 1024px) and (max-width: 1268px) {
       .paragraphs__item--04 {
 	margin-top: 100px; } }
-    @media (max-width: 950px) {
-      .paragraphs__item--04 {
-        margin-left: 4.5%; } }
     @media (max-width: 767px) {
       .paragraphs__item--04 {
         margin-bottom: 15em; } }
