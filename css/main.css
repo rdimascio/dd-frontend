@@ -4494,8 +4494,10 @@ h2.features__title {
   line-height: 1.05em;
   font-size: 3.5em;
   font-weight: normal;
-  padding: 1px;
-}
+  padding: 1px; }
+  @media (max-width: 559px) {
+    .hero h1 {
+      font-size: 2.8em; } }
 
 .hero-bg {
   background-size: cover;
