@@ -2835,9 +2835,6 @@ a.followers__item {
     @media (max-width: 767px) {
       .paragraphs__item--04 {
         margin-bottom: 15em; } }
-    @media (max-width: 1680px) {
-      .paragraphs__item--04 {
-        margin-left: 14.5%; } }
     @media (min-width: 886px) and (max-width: 1023px) {
       .paragraphs__item--04 {
         margin-top: 34em; } }
@@ -2851,6 +2848,12 @@ a.followers__item {
       .paragraphs__item--04 {
         margin-top: 8em; } }
     @media (min-width: 1595px) and (max-width: 1680px) {
+      .paragraphs__item--04 {
+        margin-top: 34em; } }
+    @media (max-width: 1680px) {
+      .paragraphs__item--04 {
+        margin-left: 14.5%; } }
+    @media (min-width: 1907px) {
       .paragraphs__item--04 {
         margin-top: 34em; } }
     .paragraphs__item--04 .paragraphs__item__title {
