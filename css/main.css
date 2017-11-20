@@ -3104,7 +3104,7 @@ a.followers__item {
 .features {
   padding-top: 95px;
   padding-bottom: 136px;
-  background-image: url(img/features__bg.jpg);
+  background-image: url("/img/features__bg.jpg");
   text-align: center; }
   @media (max-width: 1024px) {
     .features {
