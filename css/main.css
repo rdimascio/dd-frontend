@@ -3128,8 +3128,7 @@ a.followers__item {
       font-size: 13px; } }
 
 h2.features__title {
-  display: inline-block;
-  background-color: #f9e1d5; }
+  display: inline-block; }
   @media (max-width: 1023px) {
     h2.features__title {
       margin-bottom: 40px; } }
