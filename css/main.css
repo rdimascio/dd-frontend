@@ -4748,3 +4748,8 @@ h2 .how-it-works, p .how-it-works {
     font-size: 22px; }
   .cta { 
     line-height: 5; } }
+
+.paragraphs__item__number--final {
+    margin-top: -.5em;
+    margin-left: -.6em;
+}
