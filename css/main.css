@@ -2944,7 +2944,9 @@ a.followers__item {
       font-size: 35px; } }
   @media (max-width: 767px) {
     .paragraphs__item .paragraphs__item__title {
-      font-size: 4.5em; } }
+      font-size: 4.5em;
+      margin-left: -12%;
+      margin-bottom: 12%; } }
 
 .paragraphs__item__text {
   position: relative;
