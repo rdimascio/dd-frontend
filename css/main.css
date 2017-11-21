@@ -4754,8 +4754,26 @@ h2 .how-it-works, p .how-it-works {
     margin-left: -.6em;
 }
 
+.paragraphs__item__title--03 {
+  margin-top: 2.3em;
+}
+
 .paragraphs__bottom {
   height: 420px;
   text-align: center;
   vertical-align: middle;
 }
+
+@media (max-width: 320px) {
+  .paragraphs__item__title {
+    margin-left: -12px; } }
+  .paragraphs__item__title--cream {
+    margin-left: -2%;
+    margin-bottom: 26px;}
+  .paragraphs__item__text--white {
+    margin-left: 30px; }
+  .paragraphs_box_img--right {
+    display: none; } 
+  .paragraphs__item__number {
+    margin-left: -12px; } }
+  
