@@ -4753,3 +4753,7 @@ h2 .how-it-works, p .how-it-works {
     margin-top: -.5em;
     margin-left: -.6em;
 }
+
+.paragraphs__bottom {
+  height: 420px;
+}
