@@ -4756,4 +4756,6 @@ h2 .how-it-works, p .how-it-works {
 
 .paragraphs__bottom {
   height: 420px;
+  text-align: center;
+  vertical-align: middle;
 }
