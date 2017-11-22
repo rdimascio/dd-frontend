@@ -4786,7 +4786,7 @@ h2 .how-it-works, p .how-it-works {
 }
 
 .inline_logo {
-  max-width: 100px;
+  max-width: 150px;
   transform: translateY(40%);
   margin-left: -1.2%;
 }
