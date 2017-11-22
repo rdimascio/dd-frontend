@@ -4783,3 +4783,7 @@ h2 .how-it-works, p .how-it-works {
   max-width: 30px;
   margin-top: 30px;
 }
+
+.inline_logo {
+  max-width: 100px;
+}
