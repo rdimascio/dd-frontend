@@ -2071,7 +2071,7 @@ html {
     margin-bottom: 40px; } }
 
 .footer__logo {
-  margin-right: 10px; }
+  margin-left: -20px; }
 
 @media (min-width: 993px) {
   .footer__right_box {
