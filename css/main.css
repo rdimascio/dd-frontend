@@ -4625,8 +4625,8 @@ h2 .how-it-works, p .how-it-works {
   background: rgb(255, 255, 255) !important;
 }
 
-.cta a:hover {
-  color: #31BA6E;
+.cta:hover, .cta:focus {
+  color: #31BA6E !important;
 }
 
 .overlay-mockup {
