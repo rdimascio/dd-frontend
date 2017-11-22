@@ -4467,7 +4467,7 @@ h2.features__title {
     color: #f9e1d5;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1200px) {
     .decor__flying_word_img_box {
         display: none;
     }
