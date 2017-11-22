@@ -4618,11 +4618,15 @@ h2 .how-it-works, p .how-it-works {
   letter-spacing: 1px;
   line-height: 8;
   margin-top: 20px;
-  border-radius: 4em;
+  border-radius: 4px;
   padding: 1.2em 3.45em;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
   background: rgb(255, 255, 255) !important;
+}
+
+.cta a:hover {
+  color: #31BA6E;
 }
 
 .overlay-mockup {
