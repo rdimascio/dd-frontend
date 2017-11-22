@@ -2753,7 +2753,7 @@ a.followers__item {
         margin-left: 36%; } }
     @media (max-width: 1023px) {
       .paragraphs__item--no_number {
-        margin-left: 85px; } }
+        margin-left: 29%; } }
     @media (max-width: 767px) {
       .paragraphs__item--no_number {
         float: none !important;
@@ -2916,7 +2916,8 @@ a.followers__item {
       margin-left: 36%; } }
   @media (max-width: 1023px) {
     .paragraphs__button {
-      margin-left: 85px; } }
+      margin-left: 31%;
+      margin-top: 24px; } }
   @media (max-width: 767px) {
     .paragraphs__button {
       min-width: 37.2vw;
@@ -3027,7 +3028,7 @@ a.followers__item {
       .paragraphs_box_img--left {
         top: -14%;
         width: 37.6%; } }
-    @media (max-width: 1023px) {
+    @media (max-width: 767px) {
       .paragraphs_box_img--left {
         display: none; } }
   .paragraphs_box_img--right {
