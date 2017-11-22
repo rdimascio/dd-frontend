@@ -2941,7 +2941,7 @@ a.followers__item {
   @media (max-width: 1023px) {
     .paragraphs__item .paragraphs__item__title {
       margin-left: 0;
-      font-size: 35px; } }
+      font-size: 3em; } }
   @media (max-width: 767px) {
     .paragraphs__item .paragraphs__item__title {
       font-size: 4.5em;
