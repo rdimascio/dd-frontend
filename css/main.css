@@ -4782,8 +4782,11 @@ h2 .how-it-works, p .how-it-works {
 .made_with_love {
   max-width: 30px;
   margin-top: 30px;
+  transform: translateY(22%);
 }
 
 .inline_logo {
   max-width: 100px;
+  transform: translateY(40%);
+  margin-left: -1.2%;
 }
