@@ -1958,7 +1958,7 @@ html {
 .footer__logo_box {
   display: block;
   margin-bottom: 28px;
-  width: 82px;
+  width: 300px;
   -webkit-transition: opacity .2s ease;
   -moz-transition: opacity .2s ease;
   -o-transition: opacity .2s ease;
