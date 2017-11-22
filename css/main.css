@@ -4779,3 +4779,7 @@ h2 .how-it-works, p .how-it-works {
   .paragraphs__item__number {
     margin-left: -12px; } }
   
+.made_with_love {
+  max-width: 30px;
+  margin-top: 30px;
+}
