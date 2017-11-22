@@ -4466,6 +4466,7 @@ h2.features__title {
 
 .paragraphs__item__title--cream {
     color: #f9e1d5;
+    margin-left: -10%;
 }
 
 @media (max-width: 1200px) {
