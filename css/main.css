@@ -4653,7 +4653,7 @@ h2 .how-it-works, p .how-it-works {
   padding-top: 10px;
 }
 
-.navigation li {
+.navigation a {
   display: inline-block;
   margin: 20px;
 }
