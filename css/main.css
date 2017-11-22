@@ -4656,6 +4656,7 @@ h2 .how-it-works, p .how-it-works {
 .navigation a {
   display: inline-block;
   margin: 20px;
+  text-decoration: none;
 }
 
 .navigation {
