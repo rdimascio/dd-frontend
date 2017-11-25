@@ -10290,7 +10290,7 @@ window.addEventListener('DOMContentLoaded', function (){
 
 	// START OF: scroll to buy section button =====
 	var scrollToBuySection = (function(){
-		var $buySection = $('#purchase');
+		var $buySection = $('#pricing');
 		var scrollValue = $buySection.offset().top;
 
 		function goToBuySection() {
@@ -10298,7 +10298,28 @@ window.addEventListener('DOMContentLoaded', function (){
 		}
 
 		function init(){
-			$(document).on('click', '[href="#purchase"]', function(event) {
+			$(document).on('click', '[href="#pricing"]', function(event) {
+				event.preventDefault();
+				goToBuySection();
+			});
+		}
+		return {
+			goToBuySection: goToBuySection,
+			init: init
+		}
+	}());
+	
+	// START OF: scroll to features section button =====
+	var scrollToBuySection = (function(){
+		var $buySection = $('#features');
+		var scrollValue = $buySection.offset().top;
+
+		function goToBuySection() {
+			$('html,body').animate({scrollTop: scrollValue - 100}, 800);
+		}
+
+		function init(){
+			$(document).on('click', '[href="#features"]', function(event) {
 				event.preventDefault();
 				goToBuySection();
 			});
