@@ -4359,7 +4359,8 @@ h2.features__title {
   margin-right: 20px;
   border: 1px solid transparent; }
   .header__live_link:hover {
-    background-color: #28ce4f; }
+    background-color: #28ce4f;
+    color: white; }
   @media (max-width: 767px) {
     .header__live_link {
       margin-right: 10px; } }
