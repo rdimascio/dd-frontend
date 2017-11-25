@@ -332,6 +332,8 @@ html {
       color: #252537; }
   .button--green {
     color: white; }
+  .button--green--sticky {
+    background-color: #28ce4f; }
     .button--green:hover, .button--green:focus {
       color: white;
       background-color: #28ce4f; }
