@@ -10309,7 +10309,11 @@ window.addEventListener('DOMContentLoaded', function (){
 		}
 	}());
 	
-	// START OF: scroll to features section button =====
+
+	scrollToBuySection.init();
+	// ===== END OF: scroll to buy section button
+	
+	// START OF: scroll to buy section button =====
 	var scrollToBuySection = (function(){
 		var $buySection = $('#features');
 		var scrollValue = $buySection.offset().top;
@@ -10329,6 +10333,7 @@ window.addEventListener('DOMContentLoaded', function (){
 			init: init
 		}
 	}());
+	
 
 	scrollToBuySection.init();
 	// ===== END OF: scroll to buy section button
