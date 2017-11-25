@@ -4651,19 +4651,16 @@ h2 .how-it-works, p .how-it-works {
 .logo {
   max-width: 400px;
   margin-left: 10px;
-  padding-top: 10px;
 }
 
 .navigation a {
   display: inline-block;
-  margin: 20px;
   text-decoration: none;
 }
 
 .navigation {
   float: right;
   color: #fff;
-  margin-top: 15px;
   margin-right: 25px;
   font-family: montserrat, Helvetica, Arial, serif;
   font-size: 13px;
