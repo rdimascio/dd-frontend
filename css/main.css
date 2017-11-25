@@ -331,12 +331,15 @@ html {
       background-color: white;
       color: #252537; }
   .button--green {
-    color: white; }
-  .button--green--sticky {
+    color: white;
     background-color: #28ce4f; }
     .button--green:hover, .button--green:focus {
       color: white;
       background-color: #28ce4f; }
+  .button--green--sticky {
+    background-color: #28ce4f; }
+      .button--green--sticky:hover, .button--green--sticky:focus {
+      color: white; }
   .button--cream-shadow {
     -webkit-box-shadow: 0 8px 40px rgba(250, 190, 160, 0.8);
     -moz-box-shadow: 0 8px 40px rgba(250, 190, 160, 0.8);
