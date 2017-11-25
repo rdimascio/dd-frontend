@@ -331,11 +331,10 @@ html {
       background-color: white;
       color: #252537; }
   .button--green {
-    background-color: #28ce4f;
     color: white; }
     .button--green:hover, .button--green:focus {
       color: white;
-      background-color: #119830; }
+      background-color: #28ce4f; }
   .button--cream-shadow {
     -webkit-box-shadow: 0 8px 40px rgba(250, 190, 160, 0.8);
     -moz-box-shadow: 0 8px 40px rgba(250, 190, 160, 0.8);
@@ -4354,7 +4353,7 @@ h2.features__title {
   margin-right: 20px;
   border: 1px solid transparent; }
   .header__live_link:hover {
-    border-color: #252537; }
+    background-color: #28ce4f; }
   @media (max-width: 767px) {
     .header__live_link {
       margin-right: 10px; } }
